@@ -1,0 +1,17 @@
+---
+title: "Welcome to R-tistic"
+author: "Lars Schoebitz"
+date: 2017-03-01T21:17:37-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Why?
+
+This will be filled with content.
+
+

@@ -1,0 +1,39 @@
+baseurl = "http://larnsce.github.io/R-tistic"
+relativeurls = true
+languageCode = "en-us"
+title = "R-tistic"
+theme = "hugo-lithium-theme"
+googleAnalytics = "UA-92861501-1"
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[author]
+    name = "Lars Schoebitz"
+    
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/Larnsce/R-tistic"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/larnsce"
+
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.9.0"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    [params.logo]
+    url = "apple-icon.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+

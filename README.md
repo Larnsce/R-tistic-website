@@ -1,6 +1,7 @@
-# R-tistic
+# R-tistic Website
 
-Repo for reproducible, open source classes using R.
+Repo for the R-tistic course website. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme) and further modified by [Larnsce](https://github.com/Larnsce/hugo-lithium-theme)..
+
 
 ## License
 
