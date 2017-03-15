@@ -1,5 +1,5 @@
 ---
-title: "Welcome to R-tistic"
+title: "Welcome"
 author: "Lars Schoebitz"
 date: 2017-03-01T21:17:37-05:00
 categories: ["R"]
@@ -10,8 +10,9 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Why?
+## R-tistic classes
 
-This will be filled with content.
+This website is the primary place for classes, slides, excercises, news resources of the R-tistic classes. 
+
 
 
