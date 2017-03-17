@@ -1,10 +1,10 @@
-baseurl = "http://larnsce.github.io/R-tistic"
+baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
 title = "R-tistic Class"
 theme = "hugo-lithium-theme"
 googleAnalytics = "UA-92861501-1"
-disqusShortname = "larnsce"
+disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [author]
