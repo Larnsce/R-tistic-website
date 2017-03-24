@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "R-tistic Class"
 theme = "hugo-lithium-theme"
 googleAnalytics = "UA-92861501-1"
-disqusShortname = ""
+disqusShortname = "larnsce"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [author]
@@ -16,9 +16,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
-[[menu.main]]
-    name = "Resources"
-    url = "/resources/"
 [[menu.main]]
     name = "Slides"
     url = "/slides/"
