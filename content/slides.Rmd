@@ -15,9 +15,9 @@ output:
     toc: true
 ---
 
-# Eawag
+# Zurich
 
-These slides were prepared for R classes in Duebendorf at the research institute Eawag. During my last year of working at Eawag, I had the great opportunity to attend R classes offered by the University of Zurich and developed a passion that I am excited to share with my former colleagues and beyond.
+These slides were prepared for R classes in Zurich, Switzerland. 
 
 ## Introduction to R and RStudio
 
@@ -25,32 +25,33 @@ First R-tistic class taught on 14.03.2017 with three sets of slides. The first s
 
 ### Preparation slides
 
-These slides were prepared in preparation of the first R-tistic class at Eawag in Duebendorf, Switzerland. [Click here](http://bit.ly/2nnt9cw) to access the HTML version.
+These slides were prepared in preparation of the first R-tistic class. [Click here](http://bit.ly/2nnt9cw) to access the HTML version.
 
 ### Introduction to R and R Studio
 
-These slides were prepared for the first R-tistic class at Eawag in Duebendorf, Switzerland. [Click here](http://bit.ly/2ndyFhv) to access the HTML version.
+These slides were prepared for the first R-tistic class. [Click here](http://bit.ly/2ndyFhv) to access the HTML version.
 
 
 ### Data visualisation with ggplot2
 
-These slides were prepared for the first R-tistic class at Eawag in Duebendorf, Switzerland. [Click here](http://bit.ly/rtisticdatavis) to access the HTML version.
+These slides were prepared for the first R-tistic class. [Click here](http://bit.ly/rtisticdatavis) to access the HTML version.
 
-## Basics of data manipulation 
+## Basics of data manipulation (1/2)
 
 Second R-tistic class taught on 15.06.2017 with two sets of slides.
 
 ### Using Slack for class communication
 
-These slides were prepared for the second R-tistic class at Eawag in Duebendorf, Switzerland. [Click here](http://bit.ly/2tu9eI8) to access the HTML version.
+These slides were prepared for the second R-tistic class. [Click here](http://bit.ly/2tu9eI8) to access the HTML version.
 
 ### Data manipulation with dplyr
 
-These slides were prepared for the first R-tistic class at Eawag in Duebendorf, Switzerland. [Click here](http://bit.ly/2swxJqA) to access the HTML version.
+These slides were prepared for the second R-tistic class. [Click here](http://bit.ly/2swxJqA) to access the HTML version.
 
+## Basics of data manipulation (2/2)
 
+Third R-tistic class taught on 14.07.2017.
 
+### Data manipulation with dplyr
 
-
-
-
+These slides were prepared for the third R-tistic class. [Click here](http://bit.ly/2uZ3Kq7) to access the HTML version.
