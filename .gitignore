@@ -3,6 +3,7 @@
 *.aux
 *.bbl
 *.blg
+archetypes/*
 cache/*
 figure/*
 public/*
